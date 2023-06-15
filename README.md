@@ -1,3 +1,5 @@
 # css-learning
 
-![img_selector](https://github.com/vikas-sumfactor/css-learning/assets/130432414/a4ad7bf7-873b-4597-810b-22f7a12893af)
+* CSS SELECTOR
+
+    ![img_selector](https://github.com/vikas-sumfactor/css-learning/assets/130432414/a4ad7bf7-873b-4597-810b-22f7a12893af)
