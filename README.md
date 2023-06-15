@@ -65,5 +65,5 @@
 
     To display black, set all values to 00, like this: #000000.
 
-To display white, set all values to ff, like this: #ffffff.
+    To display white, set all values to ff, like this: #ffffff.
   
