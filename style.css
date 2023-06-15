@@ -1,11 +1,25 @@
-body {background-color: greenyellow;}
+body {background-color: aqua;}
 h1  
  {
+    border: 2px solid black;
     color: blue;
 }
 
-p    
-{
-    
+h2{
+    color: black;
+    border: 3px solid red;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    font-size: 30px;
+}
+
+h3{
+    border: 4px solid blue;
     color: red;
+
 }
