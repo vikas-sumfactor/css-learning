@@ -41,4 +41,15 @@
     
 
     To display white, set all color parameters to 255, like this: rgb(255, 255, 255).
+    
+    
+   # RGBA Value:
+   
+    RGBA color values are an extension of RGB color values with an alpha channel - which specifies the opacity for a color.
+
+    An RGBA color value is specified with:
+
+    rgba(red, green, blue, alpha)
+
+    The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all)
   
