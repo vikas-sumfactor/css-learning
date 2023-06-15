@@ -13,7 +13,32 @@ h1
 h1  
  {
     border: 2px solid black;
-    color: blue;
+    /* simple way of adding color */
+
+    /* color: blue; */
+
+    /* RGB way of adding color */
+
+    /* color: rgb(0, 0, 255); */
+
+     /* RGBA way of adding color */
+
+    /* color: rgba(0, 0, 255, 1); */
+
+     /* RGB way of adding color */
+
+ /* HEX way of adding color */
+
+    /* color: #0000ff; */
+
+     /* 3 DIGIT HEX way of adding color */
+
+    /* color: #00f; */
+
+     /* HSL way of adding color */
+
+
+    color: hsl(240, 100%, 50%);
 }
 
 h2{
