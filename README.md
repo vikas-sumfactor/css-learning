@@ -7,3 +7,9 @@
     
    
    ![Screenshot (177)](https://github.com/vikas-sumfactor/css-learning/assets/130432414/2ce6553f-2fa8-4fc9-bd8a-5ee20d2ec16e)
+   
+   
+    PRIORITY ORDER OF CSS:
+    
+    
+     * inline > internal >external
