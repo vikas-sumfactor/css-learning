@@ -81,4 +81,16 @@
    Where r, g, and b represent the red, green, and blue components with values between 0 and f.
 
    The 3-digit hex code can only be used when both the values (RR, GG, and BB) are the same for each component. So, if we have #ff00cc, it can be written like this: #f0c.
+   
+   # HSL Value
+   
+     In CSS, a color can be specified using hue, saturation, and lightness (HSL) in the form:
+
+    hsl(hue, saturation, lightness)
+
+    Hue is a degree on the color wheel from 0 to 360. 0 is red, 120 is green, and 240 is blue.
+
+   Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color.
+
+   Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
   
