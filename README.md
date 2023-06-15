@@ -13,3 +13,8 @@
     
     
      * inline > internal >external
+     
+    COMMENTS IN CSS:
+     
+     
+     /* This is a single-line comment */
