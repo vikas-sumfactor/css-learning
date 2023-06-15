@@ -66,4 +66,19 @@
     To display black, set all values to 00, like this: #000000.
 
     To display white, set all values to ff, like this: #ffffff.
+    
+    
+   # 3 Digit HEX Value
+   
+    Sometimes you will see a 3-digit hex code in the CSS source.
+
+    The 3-digit hex code is a shorthand for some 6-digit hex codes.
+
+   The 3-digit hex code has the following form:
+
+   #rgb
+
+   Where r, g, and b represent the red, green, and blue components with values between 0 and f.
+
+   The 3-digit hex code can only be used when both the values (RR, GG, and BB) are the same for each component. So, if we have #ff00cc, it can be written like this: #f0c.
   
