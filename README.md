@@ -22,7 +22,7 @@
      
      
      
-    RGB Value:
+   * RGB Value:
     
      
    In CSS, a color can be specified as an RGB value, using this formula:
