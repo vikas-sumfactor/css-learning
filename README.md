@@ -134,23 +134,34 @@
     
        Property	                    Description
        
-       direction	                      Specifies the text direction/writing direction
-       text-align	                      Specifies the horizontal alignment of text
-       text-align-last	                  Specifies how to align the last line of a text
-       unicode-bidi	                      Used together with the direction property to set or return whether the text should be
+       direction	      -                Specifies the text direction/writing direction
+       text-align	      -                Specifies the horizontal alignment of text
+       text-align-last	  -               Specifies how to align the last line of a text
+       unicode-bidi	      -                Used together with the direction property to set or return whether the text should be
                                            overridden to support multiple languages in the same document
-       vertical-align	                  Sets the vertical alignment of an element
+       vertical-align	  -                Sets the vertical alignment of an element
        
      #  All CSS text-decoration Properties
      
      
          Property	                   Description
          
-         text-decoration	            Sets all the text-decoration properties in one declaration
-         text-decoration-color	        Specifies the color of the text-decoration
-         text-decoration-line	        Specifies the kind of text decoration to be used (underline, overline, etc.)
-         text-decoration-style	        Specifies the style of the text decoration (solid, dotted, etc.)
-         text-decoration-thickness	    Specifies the thickness of the text decoration line
+         text-decoration	     -       Sets all the text-decoration properties in one declaration
+         text-decoration-color	 -       Specifies the color of the text-decoration
+         text-decoration-line	 -       Specifies the kind of text decoration to be used (underline, overline, etc.)
+         text-decoration-style	 -      Specifies the style of the text decoration (solid, dotted, etc.)
+         text-decoration-thickness	-    Specifies the thickness of the text decoration line
+         
+         
+     # The CSS Text Spacing Properties
+        
+         Property	                            Description
+ 
+        letter-spacing	        -                 Specifies the space between characters in a text
+        line-height	            -                  Specifies the line height
+        text-indent	            -                  Specifies the indentation of the first line in a text-block
+        white-space	            -                   Specifies how to handle white-space inside an element
+         word-spacing	        -                   Specifies the space between words in a text
 
 
     
