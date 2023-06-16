@@ -122,4 +122,49 @@
     hidden - Defines a hidden border
     
     The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
+    
+    
+   # Text Alignment
+      The text-align property is used to set the horizontal alignment of a text.
+
+      A text can be left or right aligned, centered, or justified.
+      
+    #  The CSS Text Alignment/Direction Properties
+    
+    
+       Property	                    Description
+       
+       direction	      -                Specifies the text direction/writing direction
+       text-align	      -                Specifies the horizontal alignment of text
+       text-align-last	  -               Specifies how to align the last line of a text
+       unicode-bidi	      -                Used together with the direction property to set or return whether the text should be
+                                           overridden to support multiple languages in the same document
+       vertical-align	  -                Sets the vertical alignment of an element
+       
+     #  All CSS text-decoration Properties
+     
+     
+         Property	                   Description
+         
+         text-decoration	     -       Sets all the text-decoration properties in one declaration
+         text-decoration-color	 -       Specifies the color of the text-decoration
+         text-decoration-line	 -       Specifies the kind of text decoration to be used (underline, overline, etc.)
+         text-decoration-style	 -      Specifies the style of the text decoration (solid, dotted, etc.)
+         text-decoration-thickness	-    Specifies the thickness of the text decoration line
+         
+         
+     # The CSS Text Spacing Properties
+        
+         Property	                            Description
+ 
+        letter-spacing	        -                 Specifies the space between characters in a text
+        line-height	            -                  Specifies the line height
+        text-indent	            -                  Specifies the indentation of the first line in a text-block
+        white-space	            -                   Specifies how to handle white-space inside an element
+         word-spacing	        -                   Specifies the space between words in a text
+
+
+    
+    
+    
   
