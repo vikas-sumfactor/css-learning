@@ -133,12 +133,25 @@
     
     
        Property	                    Description
+       
        direction	                      Specifies the text direction/writing direction
        text-align	                      Specifies the horizontal alignment of text
        text-align-last	                  Specifies how to align the last line of a text
        unicode-bidi	                      Used together with the direction property to set or return whether the text should be
                                            overridden to support multiple languages in the same document
        vertical-align	                  Sets the vertical alignment of an element
+       
+     #  All CSS text-decoration Properties
+     
+     
+         Property	                   Description
+         
+         text-decoration	            Sets all the text-decoration properties in one declaration
+         text-decoration-color	        Specifies the color of the text-decoration
+         text-decoration-line	        Specifies the kind of text decoration to be used (underline, overline, etc.)
+         text-decoration-style	        Specifies the style of the text decoration (solid, dotted, etc.)
+         text-decoration-thickness	    Specifies the thickness of the text decoration line
+
 
     
     
