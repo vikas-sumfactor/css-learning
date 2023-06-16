@@ -9,13 +9,13 @@
    ![Screenshot (177)](https://github.com/vikas-sumfactor/css-learning/assets/130432414/2ce6553f-2fa8-4fc9-bd8a-5ee20d2ec16e)
    
    
-    PRIORITY ORDER OF CSS:
+  #  Priority Order Of CSS:
     
     
      * inline > internal >external
      
      
-    COMMENTS IN CSS:
+   # Comments in CSS:
      
      
      /* This is a single-line comment */
@@ -93,4 +93,33 @@
    Saturation is a percentage value. 0% means a shade of gray, and 100% is the full color.
 
    Lightness is also a percentage. 0% is black, 50% is neither light or dark, 100% is white
+   
+   
+   
+   # CSS Border Style
+    The border-style property specifies what kind of border to display.
+
+    The following values are allowed:
+
+    dotted - Defines a dotted border
+    
+    dashed - Defines a dashed border
+    
+    solid - Defines a solid border
+    
+    double - Defines a double border
+    
+    groove - Defines a 3D grooved border. The effect depends on the border-color value
+    
+    ridge - Defines a 3D ridged border. The effect depends on the border-color value
+    
+    inset - Defines a 3D inset border. The effect depends on the border-color value
+    
+    outset - Defines a 3D outset border. The effect depends on the border-color value
+    
+    none - Defines no border
+    
+    hidden - Defines a hidden border
+    
+    The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
   
