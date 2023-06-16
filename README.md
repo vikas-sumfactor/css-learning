@@ -122,4 +122,24 @@
     hidden - Defines a hidden border
     
     The border-style property can have from one to four values (for the top border, right border, bottom border, and the left border).
+    
+    
+   # Text Alignment
+      The text-align property is used to set the horizontal alignment of a text.
+
+      A text can be left or right aligned, centered, or justified.
+      
+    #  The CSS Text Alignment/Direction Properties
+    
+    
+       Property	                    Description
+       direction	                   Specifies the text direction/writing direction
+      text-align	                   Specifies the horizontal alignment of text
+     text-align-last	               Specifies how to align the last line of a text
+     unicode-bidi	                   Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document
+     vertical-align	                  Sets the vertical alignment of an element
+
+    
+    
+    
   
