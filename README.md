@@ -133,11 +133,11 @@
     
     
        Property	                    Description
-       direction	                   Specifies the text direction/writing direction
-      text-align	                   Specifies the horizontal alignment of text
-     text-align-last	               Specifies how to align the last line of a text
-     unicode-bidi	                   Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document
-     vertical-align	                  Sets the vertical alignment of an element
+       direction	                      Specifies the text direction/writing direction
+       text-align	                      Specifies the horizontal alignment of text
+       text-align-last	                  Specifies how to align the last line of a text
+       unicode-bidi	                      Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document
+       vertical-align	                  Sets the vertical alignment of an element
 
     
     
