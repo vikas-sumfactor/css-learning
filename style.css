@@ -12,6 +12,7 @@ h1
 
 h1  
  {
+    margin: 40px;
     border: 2px solid black;
     /* simple way of adding color */
 
