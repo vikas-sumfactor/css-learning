@@ -1,19 +1,16 @@
-a.one:link {color:#ff0000;}
-a.one:visited {color:#0000ff;}
-a.one:hover {color:#ffcc00;}
+p {
+    font-size: 20px;
+    text-align:center;
+}
+       
 
-a.two:link {color:#ff0000;}
-a.two:visited {color:#0000ff;}
-a.two:hover {font-size:150%;}
-
-a.three:link {color:#ff0000;}
-a.three:visited {color:#0000ff;}
-a.three:hover {background:#66ff66;}
-
-a.four:link {color:#ff0000;}
-a.four:visited {color:#0000ff;}
-a.four:hover {font-family:monospace;}
-
-a.five:link {color:#ff0000;text-decoration:none;}
-a.five:visited {color:#0000ff;text-decoration:none;}
-a.five:hover {text-decoration:underline;}
+         
+/*when mouse hovers over link it will appear orange*/
+a:hover{
+    color:orange;
+}
+         
+/*when the link is clicked, it will appear black*/
+a:active{
+    color:black;
+}
