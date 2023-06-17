@@ -34,10 +34,10 @@ h1 {
     /* text-transform: uppercase; */
     text-transform: capitalize;
     letter-spacing: 5px;
-        text-indent: 50px;
-        line-height: 10px;
-        word-spacing: 10px;
-        white-space: nowrap;
+        /* text-indent: 50px; */
+        line-height: 100px;
+        /* word-spacing: 10px; */
+        /* white-space: nowrap; */
         text-shadow: 2px 2px 5px red;  /* 5px for blurr */
     
   }
