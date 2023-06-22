@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  h3 {
+    text-align: right;
+  }
+
+  div {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+  }
+  /* The text-align-last property specifies how to align the last line of a text. */
+  p.a{
+    text-align-last: right;
+  }
+
+  
+  p.b{
+    text-decoration-line: underline;  /* required */
+    text-decoration-color: red;   /*optional */
+    text-decoration-style: double;  /*optional */
+    text-decoration-thickness: 5px;    /*optional */
+  }
+
+  p.c{
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    letter-spacing: 5px;
+        /* text-indent: 50px; */
+        line-height: 100px;
+        /* word-spacing: 10px; */
+        /* white-space: nowrap; */
+        text-shadow: 2px 2px 5px red;  /* 5px for blurr */
+    
+  }
+  /* The text-shadow property adds shadow to text. */
+
+/* In its simplest use, 
+you only specify the horizontal shadow (2px) and the vertical shadow (2px): */

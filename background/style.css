@@ -1,0 +1,24 @@
+div {
+    background-color: green;
+  }
+  
+  div.first {
+    opacity: 0.1;
+  }
+  
+  div.second {
+    opacity: 0.3;
+  }
+  
+  div.third {
+    opacity: 0.6;
+  }
+  body {
+    background-image: url("images.jpg");
+    /* background-repeat: repeat-x; */
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
+  }

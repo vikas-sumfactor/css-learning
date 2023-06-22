@@ -1,0 +1,15 @@
+
+/* Child Selector */
+div > p {
+    background-color: yellow;
+  }
+
+  /* Adjacent Sibling Selector */
+  div + p {
+    background-color: yellow;
+  }
+
+  /* General Sibling Selector */
+  div ~ p {
+    background-color: yellow;
+  }

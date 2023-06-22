@@ -1,0 +1,16 @@
+p {
+    font-size: 20px;
+    text-align:center;
+}
+       
+
+         
+/*when mouse hovers over link it will appear orange*/
+a:hover{
+    color:orange;
+}
+         
+/*when the link is clicked, it will appear black*/
+a:active{
+    color:black;
+}
