@@ -1,0 +1,50 @@
+p.test1 {
+    white-space: nowrap; 
+    width: 200px; 
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+  }
+  
+  p.test2 {
+    white-space: nowrap; 
+    width: 200px; 
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }  
+
+  /* hover and see the unfit or extra text  */
+  /* div.test {
+    white-space: nowrap; 
+    width: 200px; 
+    overflow: hidden; 
+    border: 1px solid #000000;
+  }
+  
+  div.test:hover {
+    overflow: visible;
+  } */
+
+
+  /* break word */
+  /* p.test {
+    width: 11em; 
+    border: 1px solid #000000;
+    word-wrap: break-word;
+  } */
+
+
+
+  /* writing-mode Property */
+  /* p.test1 {
+    writing-mode: horizontal-tb; 
+  }
+  
+  span.test2 {
+    writing-mode: vertical-rl; 
+  }
+  
+  p.test2 {
+    writing-mode: vertical-rl; 
+  } */

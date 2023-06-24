@@ -1,0 +1,30 @@
+/* h1 {
+    text-shadow: 2px 2px 5px red;
+  } */
+
+  /* 5px for blurr */
+
+
+  /* for multiple shadow use comma */
+
+  /* h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  } */
+  h1{
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: coral;
+    /* box-shadow: 10px 10px; */
+
+    /* for inset */
+
+    /* box-shadow: 10px 10px 5px greenyellow inset; */
+
+
+    /* for multiple shadow */
+
+    box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green;
+    margin: 20px;
+  }
