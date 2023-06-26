@@ -1,0 +1,9 @@
+img {
+    border-radius: 50%;
+  }
+/* 
+for responsiveness
+  img {
+    max-width: 100%;
+    height: auto;
+  } */
