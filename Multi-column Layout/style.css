@@ -1,0 +1,9 @@
+div{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-width: 100px;
+    column-rule-color: lightblue;
+    column-rule: 1px solid lightblue;
+}
